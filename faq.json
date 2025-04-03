@@ -1,0 +1,44 @@
+{
+    "faqs": [
+      {
+        "question": "Can I use figures from the cBioPortal in my publications or presentations?",
+        "answer": "Yes, you are free to use any of the figures from the portal in your publications or presentations (many are available in SVG or PDF format for easier scaling and editing). When you do, please cite cBioPortal."
+      },
+      {
+        "question": "Can I save or bookmark my results in cBioPortal?",
+        "answer": "You can bookmark your query results and share the URL with collaborators. We store all queries via Session IDs, and these are saved indefinitely. Use the bookmark tab to retrieve the full link, or generate a short link via the bit.ly link generator."
+      },
+      {
+        "question": "How do I get updates on new portal developments and new data sets?",
+        "answer": "Please subscribe to our low-volume news mailing list or follow @cbioportal on Twitter."
+      },
+      {
+        "question": "Does the portal work on all browsers and operating systems?",
+        "answer": "We support and test on the following web browsers: Safari, Google Chrome, Firefox, and Edge. (As of release v3.5.4, we no longer support Internet Explorer 11). If you notice any incompatibilities, please let us know."
+      },
+      {
+        "question": "What does ___ stand for?",
+        "answer": "Here are the meanings of some of the abbreviations used by cBioPortal:",
+        "abbreviations": {
+          "VUS": "variant of unknown significance",
+          "CNA": "copy number alteration",
+          "AMP": "amplification",
+          "HOMDEL": "deep deletion",
+          "TMB": "tumor mutational burden, calculated as mutations per megabase of sequenced DNA",
+          "KM": "Kaplan-Meier",
+          "MSI": "microsatellite instability",
+          "OQL": "Onco Query Language, used within cBioPortal to define the types of alterations included in a query."
+        },
+        "reference": "For more on OQL, review the documentation, tutorial slides, and videos."
+      },
+      {
+        "question": "What is the cBioPortal for Cancer Genomics?",
+        "answer": "The cBioPortal for Cancer Genomics is an open-access, open-source resource for interactive exploration of multidimensional cancer genomics data sets. The goal of cBioPortal is to significantly lower the barriers between complex genomic data and cancer researchers by providing rapid, intuitive, and high-quality access to molecular profiles and clinical attributes from large-scale cancer genomics projects, and therefore to empower researchers to translate these rich data sets into biologic insights and clinical applications."
+      },
+      {
+        "question": "How do I get started?",
+        "answer": "Check out our tutorial slides to get started or go through our tutorial paper."
+      }
+    ]
+  }
+  
